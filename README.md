@@ -1,3 +1,7 @@
+# Status
+
+This extension has been **deprecated**. The record is kept here for historical purposes, but the extension should not be used for publishing data. The primary role of the extension was to support development, evaluation, and community review of a new data model for describing the metadata of intracellular electrophysiology experiments. The extension has completed community review and the proposed enhancements have been integrated with the NWB Schema, PyNWB, HDMF, and MatNWB and have been released as part of NWB 2.4. 
+
 # ndx-icephys-meta Extension for NWB:N
 
 This extension implements the icephys extension proposal described [here](https://docs.google.com/document/d/1cAgsXv26BmQoVfa7Greyxs0oc4IGH-t5aJsm-AwUAAE/edit). The extension is intended to evaluate and explore the practical use of the proposed changes as well as to provide a reference implementation with the goal to ease integration of the proposed changes with NWB.
